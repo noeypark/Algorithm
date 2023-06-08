@@ -3,7 +3,7 @@ package com.company.solvedac;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Zero {
+public class Zero_print {
     public static void main(String[] args) {
         //2557 Hello World
         System.out.println("Hello World!");
